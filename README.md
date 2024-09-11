@@ -20,4 +20,4 @@ O objetivo do projeto é demonstrar como realizar transformações geométricas 
 Você pode instalar este projeto diretamente usando o `pip` com o comando:
 
 ```bash
-pip install git+https://github.com/seuusuario/alglin_projeto_3.git
+pip install git+https://github.com/vitorraiaa/alglin_projeto_3.git
